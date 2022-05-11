@@ -1,0 +1,8 @@
+.ButtonNav{
+    display: flex;
+    gap: 10px;
+    color: white !important;
+}
+.Appbar{
+    background: linear-gradient(to right, #34495E, #2C3E50) !important;
+}

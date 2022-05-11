@@ -1,0 +1,61 @@
+.ContenedorPadre{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    max-width: none !important;
+    width: 100%;
+    height: 1000px;
+    background: linear-gradient(to right, #566573 , #808B96 ) !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.Form{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    max-width: none !important;
+    width: 90% !important;
+    height: auto !important;
+    background-color: #ECF0F1;
+    border-radius: 20px !important;
+    padding-top: 20px !important;
+    padding-bottom: 15px !important;
+}
+.ButtonYPaginacion{
+    padding-left: 10px !important;
+    padding-right: 0 !important;
+    max-width: none !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-direction: row;
+    width: 97%;
+    height: 10%;
+    margin-bottom: 20px;
+}   
+.ButtonAgregar{
+    border: 1px solid black !important;
+    border-radius: 20px !important;
+    color: black !important;
+    background-color: white !important;
+    margin-right: 20px !important;
+}
+.ButtonAgregar:hover{
+    background-color: black !important;
+    color:white !important;
+}
+.Tabla{
+    max-width: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    height: 40% !important;
+}
+.TablaPaper {
+    width: 98% !important;
+    
+    max-width: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: auto;
+    display: flex;
+
+}
