@@ -24,6 +24,11 @@ Open [http://localhost:3000](http://localhost:3000).
 Runs the app in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
+### `Email And Password`
+
+Email: admin@admin.com
+Password: admin
+
 ## Tecnologías utilizadas :computer: 
 
 * __Javascript__
